@@ -1,0 +1,91 @@
+{
+  "id": 1360956253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2019-01-21",
+    "edtf:inception":"uuuu",
+    "flysfo:airline":"QF",
+    "flysfo:base_airline":"AS",
+    "flysfo:base_flight_number":"3449",
+    "flysfo:date":"2019-01-21",
+    "flysfo:event":"arrival",
+    "flysfo:flight_number":"3737",
+    "flysfo:gate":"59C",
+    "flysfo:journey":"SLC-SFO",
+    "flysfo:terminal":"2",
+    "flysfo:timestamp":1548094800,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.370943,37.61799,-111.980566,40.78217",
+    "geom:latitude":39.20008,
+    "geom:longitude":-117.175754,
+    "iso:country":"US",
+    "lbl:latitude":37.61799,
+    "lbl:longitude":-122.370943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:airline_id":1159285043,
+    "sfomuseum:arrival_id":102527513,
+    "sfomuseum:base_flight_id":"2019-01-21-SLC-SFO-AS-3449",
+    "sfomuseum:departure_id":102527363,
+    "sfomuseum:flight_id":"2019-01-21-SLC-SFO-QF-3737",
+    "sfomuseum:flight_number":"QF3737",
+    "sfomuseum:placetype":"flight",
+    "wof:belongsto":[
+        102527513,
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        554784711,
+        102085387
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1548185833,
+    "wof:geomhash":"b2ae00b77ffd1072a2eb4148779a5d9e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "event_id":1360956253,
+            "locality_id":85922583,
+            "postalcode_id":554784711,
+            "region_id":85688637
+        },
+        {
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "event_id":1360956253,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1360956253,
+    "wof:involves":[
+        102527513,
+        102527363,
+        1159285043,
+        1159283813
+    ],
+    "wof:lastmodified":1548187598,
+    "wof:name":"QF3737 (SLC-SFO)",
+    "wof:parent_id":102527513,
+    "wof:placetype":"event",
+    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -111.980566,
+    40.78217
+],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}
+}

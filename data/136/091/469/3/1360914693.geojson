@@ -1,0 +1,71 @@
+{
+  "type": "Feature", 
+  "id": 1360914693, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "flysfo:airline": "FI", 
+    "flysfo:base_airline": "AS", 
+    "flysfo:base_flight_number": "1389", 
+    "flysfo:date": "2019-01-18", 
+    "flysfo:event": "departure", 
+    "flysfo:flight_number": "7693", 
+    "flysfo:gate": "59A", 
+    "flysfo:journey": "SFO-PDX", 
+    "flysfo:terminal": "2", 
+    "flysfo:timestamp": 1547877300, 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 41.602067, 
+    "geom:longitude": -122.484166, 
+    "lbl:latitude": 37.61799, 
+    "lbl:longitude": -122.370943, 
+    "sfomuseum:airline_id": 1159284513, 
+    "sfomuseum:arrival_id": 102532251, 
+    "sfomuseum:base_flight_id": "2019-01-18-SFO-PDX-AS-1389", 
+    "sfomuseum:departure_id": 102527513, 
+    "sfomuseum:flight_id": "2019-01-18-SFO-PDX-FI-7693", 
+    "sfomuseum:flight_number": "FI7693", 
+    "sfomuseum:placetype": "flight", 
+    "wof:belongsto": [
+      85922583, 
+      554784711, 
+      85688637, 
+      102527513, 
+      102191575, 
+      102085387, 
+      85633793, 
+      102087579
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1548177577, 
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "postalcode_id": 554784711, 
+        "region_id": 85688637
+      }, 
+      {
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102085387, 
+        "region_id": 85688637
+      }
+    ], 
+    "wof:id": 1360914693, 
+    "wof:involves": [102532251, 102527513, 1159284513, 1159283813], 
+    "wof:lastmodified": 1548177577, 
+    "wof:name": "FI7693 (SFO-PDX)", 
+    "wof:parent_id": 102527513, 
+    "wof:placetype": "event", 
+    "wof:repo": "sfomuseum-data-flight-2019-01", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

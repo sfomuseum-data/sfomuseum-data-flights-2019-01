@@ -1,0 +1,68 @@
+{
+  "type": "Feature", 
+  "id": 1360916575, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "flysfo:airline": "AS", 
+    "flysfo:date": "2019-01-19", 
+    "flysfo:event": "arrival", 
+    "flysfo:flight_number": "1193", 
+    "flysfo:gate": "59A", 
+    "flysfo:journey": "EWR-SFO", 
+    "flysfo:terminal": "2", 
+    "flysfo:timestamp": 1547961900, 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 39.1546165, 
+    "geom:longitude": -98.2742345, 
+    "lbl:latitude": 37.61799, 
+    "lbl:longitude": -122.370943, 
+    "sfomuseum:airline_id": 1159283813, 
+    "sfomuseum:arrival_id": 102527513, 
+    "sfomuseum:departure_id": 102530049, 
+    "sfomuseum:flight_id": "2019-01-19-EWR-SFO-AS-1193", 
+    "sfomuseum:flight_number": "AS1193", 
+    "sfomuseum:placetype": "flight", 
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      102087579, 
+      102085387, 
+      85922583, 
+      554784711, 
+      85688637
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1548180595, 
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "postalcode_id": 554784711, 
+        "region_id": 85688637
+      }, 
+      {
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102085387, 
+        "region_id": 85688637
+      }
+    ], 
+    "wof:id": 1360916575, 
+    "wof:involves": [102527513, 102530049, 1159283813], 
+    "wof:lastmodified": 1548180595, 
+    "wof:name": "AS1193 (EWR-SFO)", 
+    "wof:parent_id": 102527513, 
+    "wof:placetype": "event", 
+    "wof:repo": "sfomuseum-data-flight-2019-01", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}
+}

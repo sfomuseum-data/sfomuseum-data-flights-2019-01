@@ -1,4 +1,4 @@
-# sfomuseum-data-flight-2019
+# sfomuseum-data-flight-2019-01
 
 Flight data for arrivals and departures at SFO (January, 2019)
 

@@ -71,11 +71,11 @@
         1159157697,
         1159285413
     ],
-    "wof:lastmodified":1548696174,
+    "wof:lastmodified":1601320995,
     "wof:name":"CM1060 (ORD-SFO)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

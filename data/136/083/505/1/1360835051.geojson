@@ -67,11 +67,11 @@
         1159285043,
         1159157627
     ],
-    "wof:lastmodified":1548186191,
+    "wof:lastmodified":1601321454,
     "wof:name":"QF73 (SYD-SFO)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

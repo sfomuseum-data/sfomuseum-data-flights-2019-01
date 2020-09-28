@@ -67,11 +67,11 @@
         1159284261,
         1159157661
     ],
-    "wof:lastmodified":1548186675,
+    "wof:lastmodified":1601322055,
     "wof:name":"DL2719 (LAX-SFO)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

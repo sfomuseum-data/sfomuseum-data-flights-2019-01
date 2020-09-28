@@ -71,11 +71,11 @@
         1159157833,
         1159283813
     ],
-    "wof:lastmodified":1548187380,
+    "wof:lastmodified":1601323076,
     "wof:name":"AA6907 (SEA-SFO)",
     "wof:parent_id":1159157833,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -66,11 +66,11 @@
         1159283849,
         1159157801
     ],
-    "wof:lastmodified":1548958725,
+    "wof:lastmodified":1601323587,
     "wof:name":"AA2215 (JFK-SFO)",
     "wof:parent_id":1159157801,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

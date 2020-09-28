@@ -66,11 +66,11 @@
         1159284261,
         1159157711
     ],
-    "wof:lastmodified":1549042666,
+    "wof:lastmodified":1601324213,
     "wof:name":"DL1568 (MSP-SFO)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

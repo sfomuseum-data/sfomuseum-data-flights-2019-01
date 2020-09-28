@@ -71,11 +71,11 @@
         1159157639,
         1159284261
     ],
-    "wof:lastmodified":1548186520,
+    "wof:lastmodified":1601321864,
     "wof:name":"AF5813 (JFK-SFO)",
     "wof:parent_id":1159157639,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

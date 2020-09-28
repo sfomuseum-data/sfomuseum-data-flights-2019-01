@@ -69,11 +69,11 @@
         1159284349,
         1159157613
     ],
-    "wof:lastmodified":1548186458,
+    "wof:lastmodified":1601321789,
     "wof:name":"BR7 (SFO-TPE)",
     "wof:parent_id":1159157613,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

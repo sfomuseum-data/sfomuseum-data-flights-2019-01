@@ -66,11 +66,11 @@
         1159285413,
         1159157759
     ],
-    "wof:lastmodified":1549042663,
+    "wof:lastmodified":1601324187,
     "wof:name":"UA2196 (LAS-SFO)",
     "wof:parent_id":1159157759,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

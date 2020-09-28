@@ -66,11 +66,11 @@
         1159283813,
         1159157705
     ],
-    "wof:lastmodified":1548876822,
+    "wof:lastmodified":1601323550,
     "wof:name":"AS923 (LAS-SFO)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -74,11 +74,11 @@
         1159157849,
         1159285413
     ],
-    "wof:lastmodified":1548187150,
+    "wof:lastmodified":1601322805,
     "wof:name":"CM2463 (SFO-ACV)",
     "wof:parent_id":1159157849,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

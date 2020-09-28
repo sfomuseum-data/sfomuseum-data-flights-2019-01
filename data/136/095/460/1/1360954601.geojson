@@ -73,11 +73,11 @@
         1159157677,
         1159283875
     ],
-    "wof:lastmodified":1548187607,
+    "wof:lastmodified":1601323326,
     "wof:name":"UA7949 (SFO-NRT)",
     "wof:parent_id":1159157677,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

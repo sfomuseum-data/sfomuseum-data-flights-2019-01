@@ -67,11 +67,11 @@
         1159285413,
         1159157783
     ],
-    "wof:lastmodified":1548186832,
+    "wof:lastmodified":1601322332,
     "wof:name":"UA912 (ATL-SFO)",
     "wof:parent_id":1159157783,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

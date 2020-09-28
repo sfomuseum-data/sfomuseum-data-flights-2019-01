@@ -71,11 +71,11 @@
         1159157639,
         1159283539
     ],
-    "wof:lastmodified":1548186170,
+    "wof:lastmodified":1601321427,
     "wof:name":"DL8142 (MEX-SFO)",
     "wof:parent_id":1159157639,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

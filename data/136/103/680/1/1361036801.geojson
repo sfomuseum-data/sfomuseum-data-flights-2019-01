@@ -71,11 +71,11 @@
         1159157793,
         1159283813
     ],
-    "wof:lastmodified":1548696128,
+    "wof:lastmodified":1601321100,
     "wof:name":"BA7542 (PDX-SFO)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

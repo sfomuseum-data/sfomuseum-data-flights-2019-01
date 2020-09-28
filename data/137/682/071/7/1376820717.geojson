@@ -66,11 +66,11 @@
         1159285413,
         1159157741
     ],
-    "wof:lastmodified":1548876817,
+    "wof:lastmodified":1601323517,
     "wof:name":"UA731 (PHL-SFO)",
     "wof:parent_id":1159157741,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -70,11 +70,11 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1549042662,
+    "wof:lastmodified":1601324250,
     "wof:name":"VS1983 (LAX-SFO)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

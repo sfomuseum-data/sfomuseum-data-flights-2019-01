@@ -68,11 +68,11 @@
         1360700745,
         1159157823
     ],
-    "wof:lastmodified":1548958744,
+    "wof:lastmodified":1601324240,
     "wof:name":"B6516 (SFO-JFK)",
     "wof:parent_id":1159157823,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

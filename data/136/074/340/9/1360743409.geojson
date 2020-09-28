@@ -70,11 +70,11 @@
         1159283539,
         1159157629
     ],
-    "wof:lastmodified":1548187134,
+    "wof:lastmodified":1601322785,
     "wof:name":"AM669 (SFO-MEX)",
     "wof:parent_id":1159157629,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -70,11 +70,11 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1548876814,
+    "wof:lastmodified":1601323448,
     "wof:name":"CM1890 (LAS-SFO)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

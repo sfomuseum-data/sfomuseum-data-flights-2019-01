@@ -70,11 +70,11 @@
         1159283813,
         1159157701
     ],
-    "wof:lastmodified":1548187130,
+    "wof:lastmodified":1601322780,
     "wof:name":"AS3488 (SFO-SNA)",
     "wof:parent_id":1159157701,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

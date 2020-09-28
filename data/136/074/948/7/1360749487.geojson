@@ -70,11 +70,11 @@
         1159284261,
         1159157711
     ],
-    "wof:lastmodified":1548187126,
+    "wof:lastmodified":1601322775,
     "wof:name":"DL797 (SFO-SEA)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

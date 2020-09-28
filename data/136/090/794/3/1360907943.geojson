@@ -73,11 +73,11 @@
         1159157683,
         1159285163
     ],
-    "wof:lastmodified":1548186793,
+    "wof:lastmodified":1601322283,
     "wof:name":"AI7203 (SFO-HKG)",
     "wof:parent_id":1159157683,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

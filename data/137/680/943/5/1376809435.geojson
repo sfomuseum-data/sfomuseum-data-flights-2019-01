@@ -68,11 +68,11 @@
         1159283813,
         1159157839
     ],
-    "wof:lastmodified":1548791514,
+    "wof:lastmodified":1601323491,
     "wof:name":"AS1954 (SFO-SAN)",
     "wof:parent_id":1159157839,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

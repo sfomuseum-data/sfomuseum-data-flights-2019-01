@@ -72,11 +72,11 @@
         1159157767,
         1159285413
     ],
-    "wof:lastmodified":1548958744,
+    "wof:lastmodified":1601324227,
     "wof:name":"AC4518 (SFO-SNA)",
     "wof:parent_id":1159157767,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

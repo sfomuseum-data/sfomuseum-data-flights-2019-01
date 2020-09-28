@@ -71,11 +71,11 @@
         1159157789,
         1159285413
     ],
-    "wof:lastmodified":1548187232,
+    "wof:lastmodified":1601322906,
     "wof:name":"NZ9123 (EWR-SFO)",
     "wof:parent_id":1159157789,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

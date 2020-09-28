@@ -71,11 +71,11 @@
         1159157605,
         1159283957
     ],
-    "wof:lastmodified":1548186123,
+    "wof:lastmodified":1601321367,
     "wof:name":"BR3112 (SAL-SFO)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

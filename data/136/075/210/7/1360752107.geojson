@@ -70,11 +70,11 @@
         1159285413,
         1159157729
     ],
-    "wof:lastmodified":1548187289,
+    "wof:lastmodified":1601322971,
     "wof:name":"UA5695 (SFO-MCI)",
     "wof:parent_id":1159157729,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

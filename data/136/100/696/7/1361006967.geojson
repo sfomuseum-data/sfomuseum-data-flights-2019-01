@@ -73,11 +73,11 @@
         1159157795,
         1159283849
     ],
-    "wof:lastmodified":1548349848,
+    "wof:lastmodified":1601322415,
     "wof:name":"BA5728 (SFO-DFW)",
     "wof:parent_id":1159157795,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -72,11 +72,11 @@
         1159157607,
         1360700745
     ],
-    "wof:lastmodified":1548791512,
+    "wof:lastmodified":1601323486,
     "wof:name":"HA2360 (SFO-JFK)",
     "wof:parent_id":1159157607,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

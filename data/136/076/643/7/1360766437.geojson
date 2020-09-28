@@ -69,11 +69,11 @@
         1159283813,
         1159157703
     ],
-    "wof:lastmodified":1548186407,
+    "wof:lastmodified":1601321724,
     "wof:name":"AS1922 (SFO-LAX)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

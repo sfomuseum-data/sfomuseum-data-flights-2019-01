@@ -73,11 +73,11 @@
         1159157633,
         1159284625
     ],
-    "wof:lastmodified":1548186948,
+    "wof:lastmodified":1601322569,
     "wof:name":"DL7861 (SFO-ICN)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

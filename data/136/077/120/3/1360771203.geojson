@@ -67,11 +67,11 @@
         1159284477,
         1159157613
     ],
-    "wof:lastmodified":1548186133,
+    "wof:lastmodified":1601321380,
     "wof:name":"HX60 (HKG-SFO)",
     "wof:parent_id":1159157613,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

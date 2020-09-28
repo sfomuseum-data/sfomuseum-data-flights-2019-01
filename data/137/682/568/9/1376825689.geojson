@@ -72,11 +72,11 @@
         1159157605,
         1360700745
     ],
-    "wof:lastmodified":1548876868,
+    "wof:lastmodified":1601323502,
     "wof:name":"EK6126 (SFO-JFK)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

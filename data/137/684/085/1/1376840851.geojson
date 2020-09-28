@@ -72,11 +72,11 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1549042728,
+    "wof:lastmodified":1601323603,
     "wof:name":"AM3065 (SFO-LAX)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

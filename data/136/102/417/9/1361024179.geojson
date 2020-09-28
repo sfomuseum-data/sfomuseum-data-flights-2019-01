@@ -69,11 +69,11 @@
         1159285413,
         1159157723
     ],
-    "wof:lastmodified":1548441316,
+    "wof:lastmodified":1601321280,
     "wof:name":"UA5465 (SFO-SLC)",
     "wof:parent_id":1159157723,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

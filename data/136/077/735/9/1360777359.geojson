@@ -67,11 +67,11 @@
         1159283813,
         1159157635
     ],
-    "wof:lastmodified":1548186147,
+    "wof:lastmodified":1601321397,
     "wof:name":"AS1275 (PVR-SFO)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -70,11 +70,11 @@
         1159157857,
         1159284261
     ],
-    "wof:lastmodified":1548791509,
+    "wof:lastmodified":1601323484,
     "wof:name":"KL5710 (LAX-SFO)",
     "wof:parent_id":1159157857,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

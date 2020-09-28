@@ -66,11 +66,11 @@
         1159283813,
         1159157831
     ],
-    "wof:lastmodified":1548876819,
+    "wof:lastmodified":1601323500,
     "wof:name":"AS1284 (PDX-SFO)",
     "wof:parent_id":1159157831,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

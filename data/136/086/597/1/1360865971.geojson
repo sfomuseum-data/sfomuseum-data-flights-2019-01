@@ -73,11 +73,11 @@
         1159157823,
         1159283957
     ],
-    "wof:lastmodified":1548187381,
+    "wof:lastmodified":1601323077,
     "wof:name":"NH7828 (SFO-SAL)",
     "wof:parent_id":1159157823,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

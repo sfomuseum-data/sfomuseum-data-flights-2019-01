@@ -72,11 +72,11 @@
         1159157711,
         1159284261
     ],
-    "wof:lastmodified":1548876858,
+    "wof:lastmodified":1601323498,
     "wof:name":"VS4848 (SFO-JFK)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

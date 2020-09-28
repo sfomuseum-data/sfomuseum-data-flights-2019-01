@@ -69,11 +69,11 @@
         1159285413,
         1159157645
     ],
-    "wof:lastmodified":1548186634,
+    "wof:lastmodified":1601322004,
     "wof:name":"UA5385 (SFO-LAX)",
     "wof:parent_id":1159157645,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

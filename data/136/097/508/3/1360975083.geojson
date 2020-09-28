@@ -67,11 +67,11 @@
         1159284261,
         1159157743
     ],
-    "wof:lastmodified":1548268000,
+    "wof:lastmodified":1601322173,
     "wof:name":"DL1137 (SLC-SFO)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

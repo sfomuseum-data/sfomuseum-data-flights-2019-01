@@ -72,11 +72,11 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1548187182,
+    "wof:lastmodified":1601322846,
     "wof:name":"AC5225 (LAS-SFO)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

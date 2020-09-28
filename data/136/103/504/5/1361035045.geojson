@@ -71,11 +71,11 @@
         1159157761,
         1159285413
     ],
-    "wof:lastmodified":1548696117,
+    "wof:lastmodified":1601321085,
     "wof:name":"NH7373 (DFW-SFO)",
     "wof:parent_id":1159157761,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

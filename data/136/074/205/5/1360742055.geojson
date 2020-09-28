@@ -70,11 +70,11 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1548187124,
+    "wof:lastmodified":1601322773,
     "wof:name":"UA517 (SFO-IAD)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

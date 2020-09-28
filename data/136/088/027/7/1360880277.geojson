@@ -67,11 +67,11 @@
         1159284711,
         1159157827
     ],
-    "wof:lastmodified":1548187502,
+    "wof:lastmodified":1601323201,
     "wof:name":"LH454 (FRA-SFO)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

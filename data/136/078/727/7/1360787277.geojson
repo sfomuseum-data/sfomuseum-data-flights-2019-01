@@ -73,11 +73,11 @@
         1159157661,
         1159284261
     ],
-    "wof:lastmodified":1548186592,
+    "wof:lastmodified":1601321951,
     "wof:name":"KE7456 (SFO-LAX)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

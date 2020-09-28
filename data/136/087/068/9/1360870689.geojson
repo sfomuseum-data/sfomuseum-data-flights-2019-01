@@ -69,11 +69,11 @@
         1159284511,
         1159157607
     ],
-    "wof:lastmodified":1548187056,
+    "wof:lastmodified":1601322686,
     "wof:name":"IB2622 (SFO-BCN)",
     "wof:parent_id":1159157607,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

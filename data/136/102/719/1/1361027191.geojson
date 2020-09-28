@@ -71,11 +71,11 @@
         1159157747,
         1159284261
     ],
-    "wof:lastmodified":1548696023,
+    "wof:lastmodified":1601321308,
     "wof:name":"WS6992 (LAX-SFO)",
     "wof:parent_id":1159157747,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

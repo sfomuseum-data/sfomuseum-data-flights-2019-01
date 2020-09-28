@@ -73,11 +73,11 @@
         1159157821,
         1159285413
     ],
-    "wof:lastmodified":1548186263,
+    "wof:lastmodified":1601321544,
     "wof:name":"SK3933 (SFO-IAD)",
     "wof:parent_id":1159157821,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

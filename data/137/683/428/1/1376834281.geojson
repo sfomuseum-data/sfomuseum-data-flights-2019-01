@@ -70,11 +70,11 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1549042664,
+    "wof:lastmodified":1601324208,
     "wof:name":"NZ2728 (IND-SFO)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

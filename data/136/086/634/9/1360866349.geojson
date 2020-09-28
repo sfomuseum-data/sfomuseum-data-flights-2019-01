@@ -73,11 +73,11 @@
         1159157827,
         1159283697
     ],
-    "wof:lastmodified":1548187353,
+    "wof:lastmodified":1601323041,
     "wof:name":"AC6102 (SFO-AKL)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -67,11 +67,11 @@
         1159285413,
         1159157653
     ],
-    "wof:lastmodified":1548186307,
+    "wof:lastmodified":1601321598,
     "wof:name":"UA1406 (PDX-SFO)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

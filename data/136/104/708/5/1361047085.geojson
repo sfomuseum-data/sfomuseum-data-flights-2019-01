@@ -73,11 +73,11 @@
         1159157647,
         1159285413
     ],
-    "wof:lastmodified":1548696249,
+    "wof:lastmodified":1601320985,
     "wof:name":"SA7467 (SFO-IAD)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

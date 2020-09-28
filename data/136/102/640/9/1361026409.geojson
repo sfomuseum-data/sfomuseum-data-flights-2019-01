@@ -71,11 +71,11 @@
         1159157829,
         1159283813
     ],
-    "wof:lastmodified":1548696019,
+    "wof:lastmodified":1601321283,
     "wof:name":"KE6094 (PDX-SFO)",
     "wof:parent_id":1159157829,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

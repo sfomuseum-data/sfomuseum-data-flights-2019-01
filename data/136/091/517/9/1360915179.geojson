@@ -73,11 +73,11 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1548186629,
+    "wof:lastmodified":1601321999,
     "wof:name":"AF2373 (SFO-JFK)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

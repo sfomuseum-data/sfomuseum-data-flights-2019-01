@@ -70,11 +70,11 @@
         1159157795,
         1159283849
     ],
-    "wof:lastmodified":1548791505,
+    "wof:lastmodified":1601323463,
     "wof:name":"CX7544 (DFW-SFO)",
     "wof:parent_id":1159157795,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -69,11 +69,11 @@
         102525799,
         1159283813
     ],
-    "wof:lastmodified":1548187106,
+    "wof:lastmodified":1601322749,
     "wof:name":"AS3497 (DAL-SFO)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

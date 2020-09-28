@@ -73,11 +73,11 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1548186475,
+    "wof:lastmodified":1601321810,
     "wof:name":"VS4114 (SFO-LAX)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

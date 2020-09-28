@@ -69,11 +69,11 @@
         1159283813,
         1159157793
     ],
-    "wof:lastmodified":1548349822,
+    "wof:lastmodified":1601322430,
     "wof:name":"AS90 (SFO-MCO)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

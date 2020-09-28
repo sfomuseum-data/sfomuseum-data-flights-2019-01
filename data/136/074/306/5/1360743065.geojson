@@ -70,11 +70,11 @@
         1159283813,
         1159157703
     ],
-    "wof:lastmodified":1548187098,
+    "wof:lastmodified":1601322740,
     "wof:name":"AS2027 (SFO-SEA)",
     "wof:parent_id":1159157703,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

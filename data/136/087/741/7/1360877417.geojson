@@ -73,11 +73,11 @@
         1159157743,
         1159284261
     ],
-    "wof:lastmodified":1548187016,
+    "wof:lastmodified":1601322642,
     "wof:name":"VS2272 (SFO-LAX)",
     "wof:parent_id":1159157743,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

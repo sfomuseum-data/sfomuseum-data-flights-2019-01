@@ -71,11 +71,11 @@
         1159157769,
         1159285413
     ],
-    "wof:lastmodified":1548186892,
+    "wof:lastmodified":1601322507,
     "wof:name":"AC4359 (SMF-SFO)",
     "wof:parent_id":1159157769,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

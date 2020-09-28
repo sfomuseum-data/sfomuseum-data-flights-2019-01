@@ -68,11 +68,11 @@
         1159285413,
         1159157769
     ],
-    "wof:lastmodified":1548876845,
+    "wof:lastmodified":1601323511,
     "wof:name":"UA5728 (SFO-SNA)",
     "wof:parent_id":1159157769,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

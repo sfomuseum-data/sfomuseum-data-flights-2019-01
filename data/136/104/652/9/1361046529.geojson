@@ -73,11 +73,11 @@
         1159157629,
         1360700745
     ],
-    "wof:lastmodified":1548696239,
+    "wof:lastmodified":1601321049,
     "wof:name":"HA2352 (SFO-JFK)",
     "wof:parent_id":1159157629,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

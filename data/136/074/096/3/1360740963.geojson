@@ -68,11 +68,11 @@
         1159285591,
         1159157715
     ],
-    "wof:lastmodified":1548187115,
+    "wof:lastmodified":1601322761,
     "wof:name":"WN1006 (DEN-SFO)",
     "wof:parent_id":1159157715,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

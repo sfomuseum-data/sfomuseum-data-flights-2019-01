@@ -69,11 +69,11 @@
         102527513,
         1159283813
     ],
-    "wof:lastmodified":1548791531,
+    "wof:lastmodified":1601323440,
     "wof:name":"AS2119 (SFO-SNA)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

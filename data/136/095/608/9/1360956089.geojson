@@ -69,11 +69,11 @@
         1159284127,
         1159157633
     ],
-    "wof:lastmodified":1548187609,
+    "wof:lastmodified":1601323329,
     "wof:name":"CX893 (SFO-HKG)",
     "wof:parent_id":1159157633,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

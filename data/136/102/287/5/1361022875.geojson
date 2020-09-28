@@ -69,11 +69,11 @@
         1159284563,
         1159157639
     ],
-    "wof:lastmodified":1548441297,
+    "wof:lastmodified":1601321228,
     "wof:name":"JL1 (SFO-HND)",
     "wof:parent_id":1159157639,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

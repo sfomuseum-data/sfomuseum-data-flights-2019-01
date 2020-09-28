@@ -67,11 +67,11 @@
         1159284261,
         1159157803
     ],
-    "wof:lastmodified":1548187461,
+    "wof:lastmodified":1601323155,
     "wof:name":"DL367 (ATL-SFO)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

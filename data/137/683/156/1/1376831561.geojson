@@ -72,11 +72,11 @@
         1159157627,
         1159284563
     ],
-    "wof:lastmodified":1548958754,
+    "wof:lastmodified":1601323634,
     "wof:name":"MH9101 (SFO-HND)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

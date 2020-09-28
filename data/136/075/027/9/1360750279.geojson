@@ -74,11 +74,11 @@
         1159157803,
         1159284261
     ],
-    "wof:lastmodified":1548187310,
+    "wof:lastmodified":1601322994,
     "wof:name":"WS7475 (SFO-SEA)",
     "wof:parent_id":1159157803,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

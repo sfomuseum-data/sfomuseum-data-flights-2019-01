@@ -69,11 +69,11 @@
         1360700745,
         1159157607
     ],
-    "wof:lastmodified":1548186250,
+    "wof:lastmodified":1601321527,
     "wof:name":"B6278 (SFO-FLL)",
     "wof:parent_id":1159157607,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

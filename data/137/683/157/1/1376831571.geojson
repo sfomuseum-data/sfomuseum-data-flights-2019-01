@@ -68,11 +68,11 @@
         1159284261,
         1159157711
     ],
-    "wof:lastmodified":1548958755,
+    "wof:lastmodified":1601323622,
     "wof:name":"DL1374 (SFO-JFK)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

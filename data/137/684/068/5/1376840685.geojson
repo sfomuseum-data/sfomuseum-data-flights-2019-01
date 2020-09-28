@@ -72,11 +72,11 @@
         1159157659,
         1159285413
     ],
-    "wof:lastmodified":1549042726,
+    "wof:lastmodified":1601323615,
     "wof:name":"CM1889 (SFO-LAS)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

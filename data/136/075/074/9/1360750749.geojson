@@ -70,11 +70,11 @@
         1159283597,
         1159157657
     ],
-    "wof:lastmodified":1548187309,
+    "wof:lastmodified":1601322993,
     "wof:name":"AC742 (SFO-YYZ)",
     "wof:parent_id":1159157657,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

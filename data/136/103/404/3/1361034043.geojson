@@ -71,11 +71,11 @@
         1159157627,
         1159284021
     ],
-    "wof:lastmodified":1548696112,
+    "wof:lastmodified":1601321190,
     "wof:name":"IB7443 (LHR-SFO)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

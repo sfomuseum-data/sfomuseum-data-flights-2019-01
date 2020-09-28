@@ -70,11 +70,11 @@
         1159283813,
         1159157705
     ],
-    "wof:lastmodified":1548187160,
+    "wof:lastmodified":1601322818,
     "wof:name":"AS1803 (SFO-PDX)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

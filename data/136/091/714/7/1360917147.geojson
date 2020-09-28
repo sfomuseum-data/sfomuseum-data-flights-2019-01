@@ -71,11 +71,11 @@
         1159157605,
         1159283813
     ],
-    "wof:lastmodified":1548186631,
+    "wof:lastmodified":1601322001,
     "wof:name":"QF3728 (PVR-SFO)",
     "wof:parent_id":1159157605,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

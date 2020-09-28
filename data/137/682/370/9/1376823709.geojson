@@ -68,11 +68,11 @@
         1159285413,
         1159157647
     ],
-    "wof:lastmodified":1548876836,
+    "wof:lastmodified":1601323535,
     "wof:name":"UA390 (SFO-ORD)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

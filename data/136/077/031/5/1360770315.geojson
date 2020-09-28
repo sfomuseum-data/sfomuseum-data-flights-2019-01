@@ -67,11 +67,11 @@
         1159285591,
         1159157859
     ],
-    "wof:lastmodified":1548186121,
+    "wof:lastmodified":1601321365,
     "wof:name":"WN2077 (BUR-SFO)",
     "wof:parent_id":1159157859,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

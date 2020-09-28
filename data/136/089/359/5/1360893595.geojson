@@ -73,11 +73,11 @@
         1159157861,
         1159285413
     ],
-    "wof:lastmodified":1548186895,
+    "wof:lastmodified":1601322510,
     "wof:name":"SN8942 (SFO-EWR)",
     "wof:parent_id":1159157861,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

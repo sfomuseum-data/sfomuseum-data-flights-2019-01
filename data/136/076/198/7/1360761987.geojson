@@ -67,11 +67,11 @@
         1159283627,
         1159157613
     ],
-    "wof:lastmodified":1548186438,
+    "wof:lastmodified":1601321763,
     "wof:name":"AF84 (CDG-SFO)",
     "wof:parent_id":1159157613,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

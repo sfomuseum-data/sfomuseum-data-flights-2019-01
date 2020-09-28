@@ -66,11 +66,11 @@
         1159283813,
         1159157793
     ],
-    "wof:lastmodified":1549042671,
+    "wof:lastmodified":1601324215,
     "wof:name":"AS3460 (SNA-SFO)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

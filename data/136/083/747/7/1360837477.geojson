@@ -71,11 +71,11 @@
         1159157749,
         1159285413
     ],
-    "wof:lastmodified":1548186224,
+    "wof:lastmodified":1601321494,
     "wof:name":"AC5405 (SAN-SFO)",
     "wof:parent_id":1159157749,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

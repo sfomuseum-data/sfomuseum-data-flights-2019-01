@@ -73,11 +73,11 @@
         1159285043,
         1159283813
     ],
-    "wof:lastmodified":1549042683,
+    "wof:lastmodified":1601324203,
     "wof:name":"QF3756 (SFO-SJD)",
     "wof:parent_id":102527513,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

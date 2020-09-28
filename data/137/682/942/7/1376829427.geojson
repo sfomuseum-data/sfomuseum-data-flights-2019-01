@@ -70,11 +70,11 @@
         1159157801,
         1159283849
     ],
-    "wof:lastmodified":1548958731,
+    "wof:lastmodified":1601323592,
     "wof:name":"QF4136 (PHL-SFO)",
     "wof:parent_id":1159157801,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

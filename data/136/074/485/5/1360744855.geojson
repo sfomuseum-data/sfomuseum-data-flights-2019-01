@@ -70,11 +70,11 @@
         1159285227,
         1159157623
     ],
-    "wof:lastmodified":1548187104,
+    "wof:lastmodified":1601322747,
     "wof:name":"SY398 (SFO-MSP)",
     "wof:parent_id":1159157623,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

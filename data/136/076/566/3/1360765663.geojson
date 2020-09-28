@@ -73,11 +73,11 @@
         1159157707,
         1159283849
     ],
-    "wof:lastmodified":1548186400,
+    "wof:lastmodified":1601321715,
     "wof:name":"QF3204 (SFO-LAX)",
     "wof:parent_id":1159157707,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

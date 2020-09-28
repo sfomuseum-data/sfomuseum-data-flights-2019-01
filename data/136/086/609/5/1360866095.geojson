@@ -69,11 +69,11 @@
         1159285413,
         1159157739
     ],
-    "wof:lastmodified":1548187413,
+    "wof:lastmodified":1601323111,
     "wof:name":"UA5201 (SFO-MRY)",
     "wof:parent_id":1159157739,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

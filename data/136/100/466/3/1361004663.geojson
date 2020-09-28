@@ -73,11 +73,11 @@
         1159157685,
         1159285413
     ],
-    "wof:lastmodified":1548349815,
+    "wof:lastmodified":1601322417,
     "wof:name":"CA7218 (SFO-CTU)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -68,11 +68,11 @@
         1159283605,
         1159157827
     ],
-    "wof:lastmodified":1549042703,
+    "wof:lastmodified":1601324163,
     "wof:name":"CA986 (SFO-PEK)",
     "wof:parent_id":1159157827,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

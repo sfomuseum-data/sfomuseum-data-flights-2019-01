@@ -67,11 +67,11 @@
         1159283849,
         1159157651
     ],
-    "wof:lastmodified":1548187599,
+    "wof:lastmodified":1601323316,
     "wof:name":"AA2280 (MIA-SFO)",
     "wof:parent_id":1159157651,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

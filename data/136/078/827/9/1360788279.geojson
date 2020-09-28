@@ -73,11 +73,11 @@
         1159157685,
         1159283597
     ],
-    "wof:lastmodified":1548186496,
+    "wof:lastmodified":1601321836,
     "wof:name":"SQ1029 (SFO-YVR)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

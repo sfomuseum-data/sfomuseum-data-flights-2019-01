@@ -73,11 +73,11 @@
         1159157609,
         1159284211
     ],
-    "wof:lastmodified":1548186171,
+    "wof:lastmodified":1601321428,
     "wof:name":"BR3181 (SFO-PTY)",
     "wof:parent_id":1159157609,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

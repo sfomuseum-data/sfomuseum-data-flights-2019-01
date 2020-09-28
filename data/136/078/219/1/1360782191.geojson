@@ -69,11 +69,11 @@
         1360700745,
         1159157635
     ],
-    "wof:lastmodified":1548186504,
+    "wof:lastmodified":1601321845,
     "wof:name":"B6434 (SFO-BOS)",
     "wof:parent_id":1159157635,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

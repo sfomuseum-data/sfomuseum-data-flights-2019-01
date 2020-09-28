@@ -73,11 +73,11 @@
         1159157747,
         1159284261
     ],
-    "wof:lastmodified":1548186824,
+    "wof:lastmodified":1601322322,
     "wof:name":"KL6549 (SFO-MSP)",
     "wof:parent_id":1159157747,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

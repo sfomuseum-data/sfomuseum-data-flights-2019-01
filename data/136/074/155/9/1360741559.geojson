@@ -68,11 +68,11 @@
         1159283849,
         1159157795
     ],
-    "wof:lastmodified":1548187147,
+    "wof:lastmodified":1601322802,
     "wof:name":"AA1454 (LAX-SFO)",
     "wof:parent_id":1159157795,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

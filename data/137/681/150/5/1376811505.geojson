@@ -68,11 +68,11 @@
         1159284261,
         1159157661
     ],
-    "wof:lastmodified":1548791542,
+    "wof:lastmodified":1601323398,
     "wof:name":"DL5738 (SFO-SEA)",
     "wof:parent_id":1159157661,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

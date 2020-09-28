@@ -70,11 +70,11 @@
         1159285591,
         1159157809
     ],
-    "wof:lastmodified":1548187094,
+    "wof:lastmodified":1601322735,
     "wof:name":"WN2162 (SFO-LAS)",
     "wof:parent_id":1159157809,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -68,11 +68,11 @@
         1159285413,
         1159157653
     ],
-    "wof:lastmodified":1549042710,
+    "wof:lastmodified":1601324199,
     "wof:name":"UA540 (SFO-IAH)",
     "wof:parent_id":1159157653,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

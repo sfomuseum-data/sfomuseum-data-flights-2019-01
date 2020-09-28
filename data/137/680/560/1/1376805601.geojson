@@ -66,11 +66,11 @@
         1159283813,
         1159157705
     ],
-    "wof:lastmodified":1548791502,
+    "wof:lastmodified":1601323450,
     "wof:name":"AS1934 (SEA-SFO)",
     "wof:parent_id":1159157705,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -67,11 +67,11 @@
         1159285413,
         1159157697
     ],
-    "wof:lastmodified":1548441280,
+    "wof:lastmodified":1601321217,
     "wof:name":"UA288 (LAS-SFO)",
     "wof:parent_id":1159157697,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

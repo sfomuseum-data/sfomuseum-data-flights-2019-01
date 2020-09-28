@@ -67,11 +67,11 @@
         1159285413,
         1159157671
     ],
-    "wof:lastmodified":1548187443,
+    "wof:lastmodified":1601323143,
     "wof:name":"UA307 (EWR-SFO)",
     "wof:parent_id":1159157671,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-01",
+    "wof:repo":"sfomuseum-data-flights-2019-01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

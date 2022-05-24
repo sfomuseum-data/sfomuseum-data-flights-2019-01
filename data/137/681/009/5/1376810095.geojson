@@ -74,9 +74,9 @@
       1159284333,
       1159283813
     ],
-    "wof:lastmodified": 1651515647,
+    "wof:lastmodified": 1653355068,
     "wof:name": "EK3102 (SFO-LAX)",
-    "wof:parent_id": 102527513,
+    "wof:parent_id": -1,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],

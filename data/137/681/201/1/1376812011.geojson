@@ -74,9 +74,9 @@
       1159283849,
       1159283813
     ],
-    "wof:lastmodified": 1651515652,
+    "wof:lastmodified": 1653355070,
     "wof:name": "AA7623 (SFO-SEA)",
-    "wof:parent_id": 102527513,
+    "wof:parent_id": -1,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],

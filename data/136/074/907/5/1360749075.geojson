@@ -76,9 +76,9 @@
       1159283697,
       1159285413
     ],
-    "wof:lastmodified": 1651515680,
+    "wof:lastmodified": 1653355003,
     "wof:name": "NZ9202 (FAT-SFO)",
-    "wof:parent_id": 102527513,
+    "wof:parent_id": -1,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],

@@ -71,9 +71,9 @@
       102530559,
       1159285413
     ],
-    "wof:lastmodified": 1651515668,
+    "wof:lastmodified": 1653355005,
     "wof:name": "UA5491 (SMF-SFO)",
-    "wof:parent_id": 102527513,
+    "wof:parent_id": -1,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],

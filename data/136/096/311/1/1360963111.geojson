@@ -16,16 +16,16 @@
     "flysfo:timestamp": 1548123300,
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.370943,37.617990,28.818113,40.981491",
-    "geom:latitude": 39.2997405,
-    "geom:longitude": -46.776415,
+    "geom:bbox": "28.727778,40.981491,28.818113,41.262222",
+    "geom:latitude": 41.1218565,
+    "geom:longitude": 28.7729455,
     "iso:country": "US",
     "lbl:latitude": 37.617906,
     "lbl:longitude": -122.390944,
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:airline_id": 1159285391,
-    "sfomuseum:arrival_id": 102535819,
+    "sfomuseum:arrival_id": 1779770747,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "2019-01-21-SFO-IST-TK-80",
     "sfomuseum:flight_number": "TK80",
@@ -46,7 +46,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1548185900,
-    "wof:geomhash": "5dd5bc508b9b8f359c9c05d0fd4aaecc",
+    "wof:geomhash": "540cd3e920b1c12dcc9c839ebf41b412",
     "wof:hierarchy": [
       {
         "building_id": 1159157271,
@@ -70,7 +70,7 @@
       1159285391,
       1159157657
     ],
-    "wof:lastmodified": 1651515748,
+    "wof:lastmodified": 1658880477,
     "wof:name": "TK80 (SFO-IST)",
     "wof:parent_id": 1159157657,
     "wof:placetype": "event",
@@ -80,10 +80,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943,
-    37.61799,
+    28.727778,
+    40.981491,
     28.818113,
-    40.981491
+    41.262222
   ],
-  "geometry": {"coordinates":[[28.818113,40.981491],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[28.818113,40.981491],[28.727778,41.262222]],"type":"MultiPoint"}
 }

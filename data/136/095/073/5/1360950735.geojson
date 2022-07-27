@@ -16,9 +16,9 @@
     "flysfo:timestamp": 1548030900,
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.370943,37.617990,28.818113,40.981491",
-    "geom:latitude": 39.2997405,
-    "geom:longitude": -46.776415,
+    "geom:bbox": "28.727778,40.981491,28.818113,41.262222",
+    "geom:latitude": 41.1218565,
+    "geom:longitude": 28.7729455,
     "iso:country": "US",
     "lbl:latitude": 37.618057,
     "lbl:longitude": -122.392508,
@@ -26,7 +26,7 @@
     "mz:is_current": -1,
     "sfomuseum:airline_id": 1159285391,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:departure_id": 102535819,
+    "sfomuseum:departure_id": 1779770747,
     "sfomuseum:flight_id": "2019-01-20-IST-SFO-TK-79",
     "sfomuseum:flight_number": "TK79",
     "sfomuseum:placetype": "flight",
@@ -46,7 +46,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1548185778,
-    "wof:geomhash": "4dba37134e9e2a21e7ece9dd78d4a826",
+    "wof:geomhash": "450b031880485f78f5ea09463b2428be",
     "wof:hierarchy": [
       {
         "building_id": 1159157271,
@@ -70,7 +70,7 @@
       1159285391,
       1159157621
     ],
-    "wof:lastmodified": 1651515740,
+    "wof:lastmodified": 1658880475,
     "wof:name": "TK79 (IST-SFO)",
     "wof:parent_id": 1159157621,
     "wof:placetype": "event",
@@ -80,10 +80,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.370943,
-    37.61799,
+    28.727778,
+    40.981491,
     28.818113,
-    40.981491
+    41.262222
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[28.818113,40.981491]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[28.727778,41.262222],[28.818113,40.981491]],"type":"MultiPoint"}
 }

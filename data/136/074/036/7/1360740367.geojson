@@ -75,10 +75,13 @@
       1159157627,
       1159284625
     ],
-    "wof:lastmodified": 1651515656,
+    "wof:lastmodified": 1717005290,
     "wof:name": "DL7860 (ICN-SFO)",
     "wof:parent_id": 1159157627,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

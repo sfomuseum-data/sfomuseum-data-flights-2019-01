@@ -73,10 +73,13 @@
       1159157829,
       1159283813
     ],
-    "wof:lastmodified": 1651515653,
+    "wof:lastmodified": 1717005290,
     "wof:name": "EK3059 (SFO-PDX)",
     "wof:parent_id": 1159157829,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

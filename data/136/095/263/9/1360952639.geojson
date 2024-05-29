@@ -70,10 +70,13 @@
       1159285413,
       1159157821
     ],
-    "wof:lastmodified": 1651515744,
+    "wof:lastmodified": 1717005301,
     "wof:name": "UA724 (HNL-SFO)",
     "wof:parent_id": 1159157821,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

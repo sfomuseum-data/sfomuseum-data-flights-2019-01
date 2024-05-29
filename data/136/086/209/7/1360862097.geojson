@@ -75,10 +75,13 @@
       1159285043,
       1159283813
     ],
-    "wof:lastmodified": 1653355025,
+    "wof:lastmodified": 1717005295,
     "wof:name": "QF3794 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -74,10 +74,13 @@
       1159157833,
       1159283813
     ],
-    "wof:lastmodified": 1651515761,
+    "wof:lastmodified": 1717005305,
     "wof:name": "EK3101 (SFO-LAS)",
     "wof:parent_id": 1159157833,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

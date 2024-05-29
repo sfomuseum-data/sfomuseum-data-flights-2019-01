@@ -69,10 +69,13 @@
       1159285413,
       1159157657
     ],
-    "wof:lastmodified": 1651515653,
+    "wof:lastmodified": 1717005289,
     "wof:name": "UA871 (SFO-TPE)",
     "wof:parent_id": 1159157657,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

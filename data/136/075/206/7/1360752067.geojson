@@ -75,10 +75,13 @@
       1159157839,
       1159283813
     ],
-    "wof:lastmodified": 1651515663,
+    "wof:lastmodified": 1717005291,
     "wof:name": "SQ1307 (SFO-IAD)",
     "wof:parent_id": 1159157839,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

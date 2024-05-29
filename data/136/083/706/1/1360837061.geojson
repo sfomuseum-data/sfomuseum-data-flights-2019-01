@@ -70,10 +70,13 @@
       1159283957,
       1159157609
     ],
-    "wof:lastmodified": 1651515701,
+    "wof:lastmodified": 1717005296,
     "wof:name": "AV564 (SAL-SFO)",
     "wof:parent_id": 1159157609,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

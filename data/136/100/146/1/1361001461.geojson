@@ -74,10 +74,13 @@
       1159157677,
       1159285413
     ],
-    "wof:lastmodified": 1651515751,
+    "wof:lastmodified": 1717005302,
     "wof:name": "OS7857 (LHR-SFO)",
     "wof:parent_id": 1159157677,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

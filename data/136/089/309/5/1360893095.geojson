@@ -74,10 +74,13 @@
       1159157707,
       1159283849
     ],
-    "wof:lastmodified": 1651515720,
+    "wof:lastmodified": 1717005300,
     "wof:name": "BA4919 (SFO-LAX)",
     "wof:parent_id": 1159157707,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

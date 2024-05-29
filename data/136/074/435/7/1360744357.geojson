@@ -75,10 +75,13 @@
       1159157721,
       1159285413
     ],
-    "wof:lastmodified": 1651515668,
+    "wof:lastmodified": 1717005293,
     "wof:name": "NZ9399 (SFO-BOI)",
     "wof:parent_id": 1159157721,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

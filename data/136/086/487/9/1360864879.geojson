@@ -70,10 +70,13 @@
       1159283813,
       1159157753
     ],
-    "wof:lastmodified": 1651515705,
+    "wof:lastmodified": 1717005297,
     "wof:name": "AS1084 (SFO-IAD)",
     "wof:parent_id": 1159157753,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

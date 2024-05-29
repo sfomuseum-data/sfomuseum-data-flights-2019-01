@@ -73,10 +73,13 @@
       1159157651,
       1159283813
     ],
-    "wof:lastmodified": 1651515660,
+    "wof:lastmodified": 1717005295,
     "wof:name": "SQ1425 (AUS-SFO)",
     "wof:parent_id": 1159157651,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

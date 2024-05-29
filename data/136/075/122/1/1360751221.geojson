@@ -75,10 +75,13 @@
       1159157861,
       1159285413
     ],
-    "wof:lastmodified": 1651515660,
+    "wof:lastmodified": 1717005290,
     "wof:name": "EI6222 (SFO-ORD)",
     "wof:parent_id": 1159157861,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

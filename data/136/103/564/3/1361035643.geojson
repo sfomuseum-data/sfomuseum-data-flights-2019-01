@@ -75,10 +75,13 @@
       1159284563,
       1159283813
     ],
-    "wof:lastmodified": 1653355062,
+    "wof:lastmodified": 1717005308,
     "wof:name": "JL5433 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

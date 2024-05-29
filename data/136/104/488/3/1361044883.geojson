@@ -71,10 +71,13 @@
       102527513,
       1159283813
     ],
-    "wof:lastmodified": 1653355066,
+    "wof:lastmodified": 1717005308,
     "wof:name": "AS2054 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

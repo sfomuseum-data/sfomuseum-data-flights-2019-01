@@ -70,10 +70,13 @@
       1159284165,
       1159157613
     ],
-    "wof:lastmodified": 1651515787,
+    "wof:lastmodified": 1717005308,
     "wof:name": "CZ658 (SFO-CAN)",
     "wof:parent_id": 1159157613,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

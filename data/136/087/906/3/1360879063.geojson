@@ -74,10 +74,13 @@
       1159157741,
       1159285413
     ],
-    "wof:lastmodified": 1651515731,
+    "wof:lastmodified": 1717005304,
     "wof:name": "NH7314 (SFO-LAS)",
     "wof:parent_id": 1159157741,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -69,10 +69,13 @@
       1159285413,
       1159157645
     ],
-    "wof:lastmodified": 1651515650,
+    "wof:lastmodified": 1717005292,
     "wof:name": "UA5215 (OMA-SFO)",
     "wof:parent_id": 1159157645,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

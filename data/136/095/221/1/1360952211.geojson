@@ -74,10 +74,13 @@
       1159157815,
       1159284711
     ],
-    "wof:lastmodified": 1651515744,
+    "wof:lastmodified": 1717005301,
     "wof:name": "UA8829 (FRA-SFO)",
     "wof:parent_id": 1159157815,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

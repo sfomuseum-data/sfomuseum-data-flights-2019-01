@@ -74,10 +74,13 @@
       1159157633,
       1159284153
     ],
-    "wof:lastmodified": 1651515744,
+    "wof:lastmodified": 1717005301,
     "wof:name": "DL7725 (TPE-SFO)",
     "wof:parent_id": 1159157633,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -75,10 +75,13 @@
       1159283717,
       1159283813
     ],
-    "wof:lastmodified": 1653355051,
+    "wof:lastmodified": 1717005302,
     "wof:name": "FJ5839 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

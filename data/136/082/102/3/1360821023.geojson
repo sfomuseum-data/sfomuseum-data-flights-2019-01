@@ -71,10 +71,13 @@
       102533795,
       1159283813
     ],
-    "wof:lastmodified": 1653355018,
+    "wof:lastmodified": 1717005292,
     "wof:name": "AS1899 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

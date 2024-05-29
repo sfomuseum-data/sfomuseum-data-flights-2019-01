@@ -71,10 +71,13 @@
       1159285413,
       1159157723
     ],
-    "wof:lastmodified": 1651515663,
+    "wof:lastmodified": 1717005291,
     "wof:name": "UA5687 (SFO-SNA)",
     "wof:parent_id": 1159157723,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

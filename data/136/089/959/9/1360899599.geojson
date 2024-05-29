@@ -74,10 +74,13 @@
       1159157839,
       1159283813
     ],
-    "wof:lastmodified": 1651515737,
+    "wof:lastmodified": 1717005306,
     "wof:name": "KE6114 (SFO-SEA)",
     "wof:parent_id": 1159157839,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

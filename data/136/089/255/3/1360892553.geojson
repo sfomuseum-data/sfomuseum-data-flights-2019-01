@@ -70,10 +70,13 @@
       1159284261,
       1159157857
     ],
-    "wof:lastmodified": 1651515719,
+    "wof:lastmodified": 1717005300,
     "wof:name": "DL774 (SFO-ATL)",
     "wof:parent_id": 1159157857,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

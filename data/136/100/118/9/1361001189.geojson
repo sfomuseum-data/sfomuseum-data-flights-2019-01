@@ -70,10 +70,13 @@
       1159283813,
       1159157703
     ],
-    "wof:lastmodified": 1651515751,
+    "wof:lastmodified": 1717005301,
     "wof:name": "AS1595 (PSP-SFO)",
     "wof:parent_id": 1159157703,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

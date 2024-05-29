@@ -75,10 +75,13 @@
       1159283717,
       1159283813
     ],
-    "wof:lastmodified": 1653355041,
+    "wof:lastmodified": 1717005300,
     "wof:name": "FJ5823 (MCI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

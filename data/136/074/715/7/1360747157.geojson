@@ -75,10 +75,13 @@
       1159157641,
       1159285043
     ],
-    "wof:lastmodified": 1651515675,
+    "wof:lastmodified": 1717005296,
     "wof:name": "AA7397 (SYD-SFO)",
     "wof:parent_id": 1159157641,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

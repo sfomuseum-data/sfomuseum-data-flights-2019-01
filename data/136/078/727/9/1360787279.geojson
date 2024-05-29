@@ -74,10 +74,13 @@
       1159157631,
       1159284153
     ],
-    "wof:lastmodified": 1651515683,
+    "wof:lastmodified": 1717005295,
     "wof:name": "DL7731 (SFO-TPE)",
     "wof:parent_id": 1159157631,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

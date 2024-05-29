@@ -74,10 +74,13 @@
       1159157659,
       1159285413
     ],
-    "wof:lastmodified": 1651515747,
+    "wof:lastmodified": 1717005303,
     "wof:name": "NZ9198 (SFO-IAH)",
     "wof:parent_id": 1159157659,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

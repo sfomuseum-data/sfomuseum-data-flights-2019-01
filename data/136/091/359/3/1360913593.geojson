@@ -71,10 +71,13 @@
       102527513,
       1159283813
     ],
-    "wof:lastmodified": 1653355041,
+    "wof:lastmodified": 1717005301,
     "wof:name": "AS3404 (SFO-DAL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

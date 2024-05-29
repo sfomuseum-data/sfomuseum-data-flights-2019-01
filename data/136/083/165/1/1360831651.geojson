@@ -70,10 +70,13 @@
       1159283597,
       1159157623
     ],
-    "wof:lastmodified": 1651515692,
+    "wof:lastmodified": 1717005292,
     "wof:name": "AC563 (SFO-YVR)",
     "wof:parent_id": 1159157623,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

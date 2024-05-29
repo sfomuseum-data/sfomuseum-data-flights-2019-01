@@ -70,10 +70,13 @@
       1159284127,
       1159157613
     ],
-    "wof:lastmodified": 1651515731,
+    "wof:lastmodified": 1717005304,
     "wof:name": "CX872 (HKG-SFO)",
     "wof:parent_id": 1159157613,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

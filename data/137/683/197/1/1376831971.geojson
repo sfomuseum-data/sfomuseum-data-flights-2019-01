@@ -73,10 +73,13 @@
       1159157613,
       1159284165
     ],
-    "wof:lastmodified": 1651515793,
+    "wof:lastmodified": 1717005291,
     "wof:name": "DL6340 (SFO-CAN)",
     "wof:parent_id": 1159157613,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

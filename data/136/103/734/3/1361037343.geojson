@@ -70,10 +70,13 @@
       1159284261,
       1159157663
     ],
-    "wof:lastmodified": 1651515793,
+    "wof:lastmodified": 1717005308,
     "wof:name": "DL2700 (SFO-LAX)",
     "wof:parent_id": 1159157663,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

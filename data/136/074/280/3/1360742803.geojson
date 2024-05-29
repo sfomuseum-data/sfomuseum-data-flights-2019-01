@@ -75,10 +75,13 @@
       1159157821,
       1159285413
     ],
-    "wof:lastmodified": 1651515665,
+    "wof:lastmodified": 1717005292,
     "wof:name": "SN8949 (SFO-IAD)",
     "wof:parent_id": 1159157821,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

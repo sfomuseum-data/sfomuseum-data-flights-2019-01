@@ -74,10 +74,13 @@
       1159157663,
       1159284261
     ],
-    "wof:lastmodified": 1651515793,
+    "wof:lastmodified": 1717005308,
     "wof:name": "VS3159 (JFK-SFO)",
     "wof:parent_id": 1159157663,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

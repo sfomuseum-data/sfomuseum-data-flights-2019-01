@@ -70,10 +70,13 @@
       1159284261,
       1159157743
     ],
-    "wof:lastmodified": 1651515705,
+    "wof:lastmodified": 1717005297,
     "wof:name": "DL2509 (LAX-SFO)",
     "wof:parent_id": 1159157743,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

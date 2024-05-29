@@ -73,10 +73,13 @@
       1159157815,
       1159285413
     ],
-    "wof:lastmodified": 1651515651,
+    "wof:lastmodified": 1717005292,
     "wof:name": "NH7011 (SFO-HND)",
     "wof:parent_id": 1159157815,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

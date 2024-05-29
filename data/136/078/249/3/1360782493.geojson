@@ -75,10 +75,13 @@
       1159284021,
       1159283813
     ],
-    "wof:lastmodified": 1653355012,
+    "wof:lastmodified": 1717005291,
     "wof:name": "BA7541 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

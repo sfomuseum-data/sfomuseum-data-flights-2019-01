@@ -74,10 +74,13 @@
       1159157857,
       1159284261
     ],
-    "wof:lastmodified": 1651515722,
+    "wof:lastmodified": 1717005301,
     "wof:name": "AF2411 (SFO-JFK)",
     "wof:parent_id": 1159157857,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

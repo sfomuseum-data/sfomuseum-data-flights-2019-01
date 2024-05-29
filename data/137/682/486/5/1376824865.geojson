@@ -73,10 +73,13 @@
       1159157847,
       1159285413
     ],
-    "wof:lastmodified": 1651515652,
+    "wof:lastmodified": 1717005293,
     "wof:name": "NZ2843 (SFO-MRY)",
     "wof:parent_id": 1159157847,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

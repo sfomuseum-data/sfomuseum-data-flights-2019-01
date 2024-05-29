@@ -75,10 +75,13 @@
       1159157733,
       1159285413
     ],
-    "wof:lastmodified": 1651515680,
+    "wof:lastmodified": 1717005298,
     "wof:name": "AC5703 (SFO-SJD)",
     "wof:parent_id": 1159157733,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

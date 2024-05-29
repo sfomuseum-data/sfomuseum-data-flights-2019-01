@@ -74,10 +74,13 @@
       1159157613,
       1159283627
     ],
-    "wof:lastmodified": 1651515717,
+    "wof:lastmodified": 1717005300,
     "wof:name": "DL8552 (CDG-SFO)",
     "wof:parent_id": 1159157613,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

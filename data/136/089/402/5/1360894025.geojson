@@ -70,10 +70,13 @@
       1159285413,
       1159157855
     ],
-    "wof:lastmodified": 1651515722,
+    "wof:lastmodified": 1717005301,
     "wof:name": "UA5449 (SFO-BOI)",
     "wof:parent_id": 1159157855,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

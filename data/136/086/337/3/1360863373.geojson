@@ -74,10 +74,13 @@
       1159157705,
       1159283813
     ],
-    "wof:lastmodified": 1651515701,
+    "wof:lastmodified": 1717005296,
     "wof:name": "JL5448 (SFO-BOS)",
     "wof:parent_id": 1159157705,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -75,10 +75,13 @@
       1159284513,
       1159283813
     ],
-    "wof:lastmodified": 1653355022,
+    "wof:lastmodified": 1717005295,
     "wof:name": "FI7694 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

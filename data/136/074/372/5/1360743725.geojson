@@ -75,10 +75,13 @@
       1159157685,
       1159284349
     ],
-    "wof:lastmodified": 1651515667,
+    "wof:lastmodified": 1717005293,
     "wof:name": "TG6333 (SFO-TPE)",
     "wof:parent_id": 1159157685,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

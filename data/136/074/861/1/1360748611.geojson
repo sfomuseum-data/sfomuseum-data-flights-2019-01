@@ -75,10 +75,13 @@
       1159157657,
       1159285413
     ],
-    "wof:lastmodified": 1651515678,
+    "wof:lastmodified": 1717005297,
     "wof:name": "SN9011 (CDG-SFO)",
     "wof:parent_id": 1159157657,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -71,10 +71,13 @@
       102527209,
       1159283813
     ],
-    "wof:lastmodified": 1653355065,
+    "wof:lastmodified": 1717005307,
     "wof:name": "AS1903 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

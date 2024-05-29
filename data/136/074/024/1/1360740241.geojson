@@ -75,10 +75,13 @@
       1159157609,
       1159284211
     ],
-    "wof:lastmodified": 1651515656,
+    "wof:lastmodified": 1717005289,
     "wof:name": "BR3184 (PTY-SFO)",
     "wof:parent_id": 1159157609,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

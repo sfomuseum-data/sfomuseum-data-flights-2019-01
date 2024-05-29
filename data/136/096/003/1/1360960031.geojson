@@ -74,10 +74,13 @@
       1159157609,
       1360700745
     ],
-    "wof:lastmodified": 1651515740,
+    "wof:lastmodified": 1717005299,
     "wof:name": "HA2355 (SFO-LGB)",
     "wof:parent_id": 1159157609,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

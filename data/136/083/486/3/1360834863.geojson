@@ -74,10 +74,13 @@
       1159157855,
       1159285413
     ],
-    "wof:lastmodified": 1651515696,
+    "wof:lastmodified": 1717005294,
     "wof:name": "CM2528 (ONT-SFO)",
     "wof:parent_id": 1159157855,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

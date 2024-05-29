@@ -73,10 +73,13 @@
       1159157653,
       1159285413
     ],
-    "wof:lastmodified": 1651515662,
+    "wof:lastmodified": 1717005295,
     "wof:name": "OS7884 (SFO-IAD)",
     "wof:parent_id": 1159157653,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

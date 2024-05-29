@@ -75,10 +75,13 @@
       1159157827,
       1159284349
     ],
-    "wof:lastmodified": 1651515681,
+    "wof:lastmodified": 1717005298,
     "wof:name": "AV4504 (SFO-TPE)",
     "wof:parent_id": 1159157827,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

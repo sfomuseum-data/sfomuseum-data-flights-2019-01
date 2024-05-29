@@ -75,10 +75,13 @@
       1159157653,
       1159285413
     ],
-    "wof:lastmodified": 1651515650,
+    "wof:lastmodified": 1717005307,
     "wof:name": "NZ9288 (LAS-SFO)",
     "wof:parent_id": 1159157653,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],

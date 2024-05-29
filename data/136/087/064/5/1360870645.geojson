@@ -70,10 +70,13 @@
       1159285413,
       1159157695
     ],
-    "wof:lastmodified": 1651515707,
+    "wof:lastmodified": 1717005296,
     "wof:name": "UA5425 (SFO-ONT)",
     "wof:parent_id": 1159157695,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-01",
     "wof:superseded_by": [],
     "wof:supersedes": [],
